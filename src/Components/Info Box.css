@@ -1,0 +1,19 @@
+#InfoBox {
+    background-color: lightcyan;
+    color: black;
+}
+
+.header {
+    padding-left: 2%;
+    width: 30%;
+}
+
+.information {
+    float: right;
+    width: 70%;
+}
+
+.section {
+    display: flex;
+    border: 1px dashed black;
+}
